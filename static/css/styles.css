@@ -1,0 +1,44 @@
+.head{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #37003c;
+}
+a:hover img{
+    transform: scale(1.05);
+    transition: transform 0.3s ease-in-out;
+}
+.link{
+    text-decoration: none;
+}
+.link:hover{
+    text-decoration: underline;
+}
+.nrfr{
+    height: 191.45px;
+    background-color: #000000;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.youacc{
+    height: 182px;
+    background-color: #37003C;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.contenedor{
+    background-color: #37003c;
+    display: flex;
+    justify-content: space-between;
+}
+.logo-team{
+    width: 25px;
+    height: 25px;
+}
+.contenedor-reg{
+    display: flex;
+    background-color: #37003c;
+}
+.tabla-posiciones{
+    width: 515px;
+}
